@@ -7,6 +7,9 @@ Repozytorium zawiera implementacje oraz porównanie czterech modeli sytemów rek
 * Model sekwencyjny 
 * Model **MLP** wykorzystujący sieci głębokie
 
+#### Prezentacja
+Tutaj znajduje się link do prezentacji: https://docs.google.com/presentation/d/1C7cNc14DFr3N2ksRQBIT2nhdkYzMKQsg0CSbdkqOnIs/edit?fbclid=IwAR0BFHT_GvkQZ2JZWu6kQuWgNDyCNNeBwzKgx30RGhhgXvzOysdXY-PbvyA#slide=id.g7f498dcb5a_8_56
+
 #### Zbiór danych
 Jako zbiór danych wykorzystano zbiór danych MovieLens zawieracjący 100 000 ocen (1-5) od 943 
 użytkowników dla 1682 filmów. Każdy użytkownik ma co najmniej 20 ocenionych filmów.
