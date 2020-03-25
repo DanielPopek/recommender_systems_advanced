@@ -19,8 +19,8 @@ Normalized Discounted Cumulative Gain *(NDCG)*.
 
 Metryka\Model | K-means | BPR | Sequential | MLP
 --------------|---------|-----|------------|----
-HR | | 0.6214 | 0.1962 | 0.5705
-NDCG| | 0.3461 | 0.1008 | 0.3107
+HR | 0.1463 | 0.6214 | 0.1962 | 0.5705
+NDCG| 0.0587 | 0.3461 | 0.1008 | 0.3107
 
 #### Powiązane publikacje
 1. [MLP model](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)
